@@ -11,8 +11,8 @@ python Main.py
 ```
 
 基于[某智学网API](https://github.com/anwenhu/zhixuewang)
-##版本更新：
-###2019/5/23 发布
+## 版本更新：
+### 2019/5/23 发布
 运行:
 ```bash
 pip install zhixuewang
