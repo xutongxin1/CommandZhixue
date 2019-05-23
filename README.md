@@ -1,7 +1,7 @@
 This is a small programme to query score in Zhixuewang.
 
 这是一个用来查询智学网上成绩的小脚本
-
+现在由xutongxin完成图形化工程
 Base on [Zhixuewang](https://github.com/anwenhu/zhixuewang), a API of Zhixuewang.
 
 To run:
@@ -16,4 +16,7 @@ python Main.py
 ```bash
 pip install zhixuewang
 python Main.py
-```
+``
+
+##版本更新：
+###2019/5/23 发布
